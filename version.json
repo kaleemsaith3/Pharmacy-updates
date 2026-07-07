@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/kaleemsaith3/Pharmacy-updates/releases/download/v1.0.2/MedicalStoreProSetup.exe",
-  "notes": "Demand List, medicine formula search, category edit, WhatsApp number update, aur Check for Updates option add kiya gaya."
+  "version": "1.0.6",
+  "download_url": "https://github.com/kaleemsaith3/Pharmacy-updates/releases/download/v1.0.6/MedicalStoreProSetup.exe",
+  "notes": "QR code sizing fix (bara/overflow ho raha tha), store address correct kiya gaya."
 }
