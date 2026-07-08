@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/kaleemsaith3/Pharmacy-updates/releases/download/v1.0.6/MedicalStoreProSetup.exe",
-  "notes": "QR code sizing fix (bara/overflow ho raha tha), store address correct kiya gaya."
+  "version": "1.0.8",
+  "download_url": "https://github.com/kaleemsaith3/Pharmacy-updates/releases/download/v1.0.8/MedicalStoreProSetup.exe",
+  "notes": "Receipt term #4 mein milk/narcotic not-returnable add kiya, Bulk Entry mein Low Stock Alert column add kiya gaya."
 }
